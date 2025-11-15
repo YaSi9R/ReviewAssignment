@@ -1,0 +1,13 @@
+# Next.js build folder
+.next/
+
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Lock files
+pnpm-lock.yaml
